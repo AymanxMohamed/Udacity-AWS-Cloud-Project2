@@ -63,7 +63,7 @@ Resources:
       - Ref: WebServerSecurityGroup
       InstanceType: t3.medium
       BlockDeviceMappings:
-      - DeviceName: "/dev/aymanSd"
+      - DeviceName: "/dev/sda1"
         Ebs:
           VolumeSize: 10
   WebAppGroup: 

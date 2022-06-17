@@ -14,6 +14,8 @@ Their is also servers.yml and servers-parameters.json that contains the script f
 
 ## Endpoints
 
+[End Point URL](<http://proje-WebAp-ACXEN1BNIQ6S-2139413539.us-east-1.elb.amazonaws.com>)
+
 
 
 
